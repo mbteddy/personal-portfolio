@@ -1,6 +1,6 @@
 # personal-portfolio
 What is the URL of this project on your student web-server?
-
+	http://students.washington.edu/mbteddy/info343/personal-portfolio/
 Did you receive help from any other sources (classmates, etc.)? If so, please list who.
 	no
 Approximately how many hours did it take you to complete this challenge?
