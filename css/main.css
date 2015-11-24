@@ -1,0 +1,156 @@
+.header {
+	text-align: left;
+	margin-left: 80px;
+}
+
+body {
+	background-color: #7469DB;
+}
+
+.header a {
+	margin-bottom: 10px;
+}
+
+#headerColor {
+	margin-left: -90px
+}
+
+#fb {
+	margin: auto;
+	margin-left: 46.5%;
+}
+
+#main {
+	background-color: white;
+}
+
+#githubLink {
+	padding-left: 20px;
+}
+
+#links {
+	text-align: center;
+}
+
+.btn-primary {
+	background-color: white;
+	border-color: white;
+	color: black;
+}
+
+.btn-success {
+	background-color: white;
+	border-color: white;
+	color: black;
+}
+
+.btn-primary:hover {
+	background-color: gray;
+	border-color: gray;
+	color: black;
+}
+
+.btn-success:hover {
+	background-color: gray;
+	border-color: gray;
+	color: black;
+}
+
+#headshot {
+	display: inline-block;
+}
+
+#aboutMe {
+	background-color: #7469DB;
+	border-radius: 5px;
+}
+
+#aboutMe img {
+	max-height: 300px;
+	border-radius: 5px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-left: 100%;
+}
+
+#aboutMe p {
+	padding-top: 10px;
+}
+
+#main h1 {
+	color: white;
+	padding-top: 15px;
+}
+
+footer {
+	width:100%;
+	left:0px;
+	padding:10px;
+}
+
+h1 {
+	text-align: center;
+	color: white;
+}
+
+.contactPage {
+	color: white;
+	text-align: center;
+	font-size: 18px;
+}
+
+.well img {
+	max-width: 100%;
+	margin-right: 1em;
+	border-radius: 5px;
+}
+
+.btn-success {
+	margin: 15px;
+}
+
+.homeText {
+	font-size: 16px;
+}
+
+.well a, .well a:active{
+	color: white;
+}
+
+.project-description {
+	margin-top: 10px;
+}
+
+.space {
+	background-color: white;
+	height: 100px;
+	width: 2000px;
+    margin-left: -100px;
+
+}
+
+
+
+.well a:hover, .well a:focus, .well a:active {
+	text-decoration: none;
+	color: black;
+}
+
+.well {
+	background-color: #7469DB;
+	border: none;
+}
+
+#contactDescription {
+	background-color: #7469DB;
+	border-radius: 5px;
+}
+
+#contactDescription p {
+	padding-top: 10px;
+}
+
+#contact {
+	padding-top: 15px;
+}

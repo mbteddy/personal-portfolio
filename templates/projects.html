@@ -1,0 +1,14 @@
+<h1>INFO 343 Projects</h1>
+<div id="projects" class="container">
+	<div class="well grid" ng-repeat="project in data" title="{{project.project}}">
+		<img class="xs-col-6" src="{{project.src}}">
+		<div>
+			<p class="project-description">{{project.description}}
+				<br>
+				<p class="links">
+					<a href="{{project.url}}" target="_blank" id="projectURL">View Project</a>
+				</p>
+			</p>
+		</div>
+	</div>
+</div>
